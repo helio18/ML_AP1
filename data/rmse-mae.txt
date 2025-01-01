@@ -1,0 +1,25 @@
+Method, use_scaling, use_hparam_tuning, RMSE_ID3, RMSE_Bayes, MAE_ID3, MAE_Bayes
+Running: Method=1, scale=False, tune=False
+1, False, False, 1276.76, 1395.06, 1068.67, 1176.62
+Running: Method=1, scale=False, tune=True
+1, False, True, 1284.96, 1395.06, 1072.79, 1176.62
+Running: Method=1, scale=True, tune=False
+1, True, False, 1276.76, 1395.06, 1068.67, 1176.62
+Running: Method=1, scale=True, tune=True
+1, True, True, 1284.96, 1395.06, 1072.79, 1176.62
+Running: Method=2, scale=False, tune=False
+2, False, False, 1524.87, 1290.69, 1260.51, 1054.48
+Running: Method=2, scale=False, tune=True
+2, False, True, 1629.06, 1290.69, 1293.43, 1054.48
+Running: Method=2, scale=True, tune=False
+2, True, False, 1524.87, 1290.69, 1260.51, 1054.48
+Running: Method=2, scale=True, tune=True
+2, True, True, 1629.06, 1290.69, 1293.43, 1054.48
+Running: Method=3, scale=False, tune=False
+3, False, False, 1460.40, 1323.15, 1180.25, 1093.17
+Running: Method=3, scale=False, tune=True
+3, False, True, 1782.55, 1323.15, 1377.50, 1093.17
+Running: Method=3, scale=True, tune=False
+3, True, False, 1460.40, 1323.15, 1180.25, 1093.17
+Running: Method=3, scale=True, tune=True
+3, True, True, 1734.91, 1323.15, 1359.42, 1093.17
